@@ -24,8 +24,8 @@ flutter pub add auto_size_text
 ```
 📸 **Screenshot:**  
 [Langkah2]
-(assets/2(2).png)
-(assets/2(1).png)
+(assets/1.png)
+(assets/1.1.png)
 
 Jika berhasil, maka plugin akan muncul di file `pubspec.yaml` bagian `dependencies`.
 
