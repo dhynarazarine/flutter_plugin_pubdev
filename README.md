@@ -23,7 +23,7 @@ Menambahkan plugin `auto_size_text` menggunakan perintah berikut di terminal:
 flutter pub add auto_size_text
 ```
 📸 **Screenshot:**  
-[Langkah2]
+![Langkah2]
 (assets/1.png)
 (assets/1.1.png)
 
